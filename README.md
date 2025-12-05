@@ -95,4 +95,4 @@ Co-founded **FuelCredit** (https://myfuelcredit.com), a fintech platform that pr
 - TestDates: https://testdates.co.uk  
 - CheckMyRef: https://checkmyref.com  
 - FuelCredit: https://myfuelcredit.com  
-- LinkedIn: (add your LinkedIn URL here)
+- LinkedIn: https://www.linkedin.com/in/yemi-oliyide/
