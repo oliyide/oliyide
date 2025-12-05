@@ -9,7 +9,7 @@ I specialise in turning messy, real-world problems into ship-ready products by a
 ## What I’m building
 
 ### 🚗 WeDriveCars (UK)
-A dedicated vehicle handover and movement platform for the UK.
+A dedicated vehicle handover and movement platform for the UK (https://wedrivecars.co.uk).
 
 - Connects **private car owners, dealers, auctions and garages** with vetted self-employed drivers.
 - Drivers must have **Motor Trade Insurance and trade plates** and pass strict onboarding checks.
@@ -24,7 +24,7 @@ A dedicated vehicle handover and movement platform for the UK.
 ---
 
 ### 🚘 TestDates.co.uk (UK)
-A web app that helps UK learners get earlier driving test dates.
+A web app that helps UK learners get earlier driving test dates (https://testdates.co.uk).
 
 - Monitors and finds **cancellation test dates** to bring exams forward for learners.
 - Automates what used to be a manual, time-consuming process.
@@ -37,7 +37,7 @@ A web app that helps UK learners get earlier driving test dates.
 ---
 
 ### 🧾 CheckMyRef.com (Global)
-A digital job-reference and verification platform.
+A digital job-reference and verification platform (https://checkmyref.com).
 
 - Helps employers and candidates manage **reference checks**, reduce fraud, and speed up hiring.
 - Designed for **compliance, auditability and trust** between all parties.
